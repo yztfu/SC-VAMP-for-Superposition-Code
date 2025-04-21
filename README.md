@@ -51,5 +51,14 @@ You can run a simple example using the following command. Feel free to customize
 
 If you use this code in your research, please cite:
 ```bibtex
+@misc{liu2025capacityachievingsparsesuperpositioncodes,
+      title={Capacity-achieving sparse superposition codes with spatially coupled VAMP decoder}, 
+      author={Yuhao Liu and Teng Fu and Jie Fan and Panpan Niu and Chaowen Deng and Zhongyi Huang},
+      year={2025},
+      eprint={2504.13601},
+      archivePrefix={arXiv},
+      primaryClass={cs.IT},
+      url={https://arxiv.org/abs/2504.13601}, 
+}
 ```
 
