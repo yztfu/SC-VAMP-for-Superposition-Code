@@ -11,7 +11,7 @@
 ## Introduction
 
 Official implementation of spatial coupled VAMP algorithm from the paper:  
-[**"Capacity-achieving sparse superposition codes with spatially coupled VAMP decoder"**](https://www.google.com)
+[**"Capacity-achieving sparse superposition codes with spatially coupled VAMP decoder"**](https://arxiv.org/abs/2504.13601)
 
 
 
