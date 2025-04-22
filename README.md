@@ -43,7 +43,7 @@ You can run a simple example using the following command. Feel free to customize
 ### Examples
 ```bash
 # Run example test script
-./examples/test1.sh
+sh ./examples/test1.sh
 ```
 
 
